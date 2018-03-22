@@ -1,0 +1,22 @@
+from python-constraint-1.2 import *
+import sys
+
+COURTS = range(1, 24) # 24 courts
+
+TEAMS = ["Atlanta Extreme 18-1 Kaepa",
+         "ATLBoom 18 Diamond Rox",
+         "Cobb Atlanta 17-1 Michael",
+         "Cobb Atlanta 18-1 Leslie",
+         "Crossfire 18-1 Third Degree Hybrid",
+         "MIDTN VBC 18-1",
+         "NAVC 18-1 Leah",
+         "ProLink 16E Reilly",
+         "ProLink 18N Chris",
+         "Tsunami 18-Joe"] # 10 teams so uneven pools
+
+
+
+class Team():
+    """
+    Class used to define the set of constraints each team would have
+    """

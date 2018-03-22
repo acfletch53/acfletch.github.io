@@ -178,11 +178,12 @@
 	<div class="title">That was a lot</div>
 	<div id="footer" class="container">
 	  <header class="style1">
-	    <h2>What kind of website? Html/css based? Template? Reactive?</h2>
+	    <h2>What type of website? Html/css based? Template? Reactive?</h2>
 	    <h1>
 	      I'm not sure. It's my first one. Probably whatever is easiest.
 	    </h1>
-	    <p>Update: I am now the mildly-proud creator/moderator of the Georgia Tech <a href="http://women.cc.gatech.edu/">Women at the College of Computing website</a> (a club of which I am currently the president), and <a href="http://thedailyhugh.com">The Daily Hugh</a>, which is the result of my love for bothering one of my best friends, Hugh, combined with an interest in web development that was sparked by my being forced to create the one you're looking at right now.
+	    <p>
+	      People may not remember <a href="https://www.kickstarter.com/projects/zackdangerbrown/potato-salad/description">this guy's</a> kickstarter campaign for his first potato salad, but the FAQ section has always cracked me up. He consistently refers to this potato salad as his "first one".
 	    </p>
 	  </header>
 	  <hr />
@@ -236,6 +237,7 @@
 		    <section>
 		      <h3 class="icon fa-comment">Social</h3>
 		      <p>
+			<a href="http://www.smallfrown.com">smallfrown.com</a><br />
 			<a href="http://linkedin.com/in/acfletch">linkedin.com/acfletch</a><br />
 			<a href="http://www.facebook.com/profile.php?id=623114347">facebook.com/profile.php?id=623114347</a>
 		      </p>
